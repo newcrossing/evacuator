@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Thats protected Area!"
+AuthUserFile /var/www/u2653314/public_html/evak911klg.ru/.htpasswd
+Require valid-user
